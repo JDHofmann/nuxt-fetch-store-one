@@ -1,0 +1,1047 @@
+[
+  {
+    "id": 45238,
+    "date": "2021-12-15T13:38:40",
+    "date_gmt": "2021-12-15T18:38:40",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45238" },
+    "modified": "2021-12-15T13:38:40",
+    "modified_gmt": "2021-12-15T18:38:40",
+    "slug": "laptop-theft",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/turning-points/laptop-theft/",
+    "title": { "rendered": "Tips for securing your laptop from theft" },
+    "content": {
+      "rendered": "<p>Our devices are an important part of our daily lives. No one expects them to be stolen, but these things can happen. Your laptop or Chromebook can be a valuable target for theft.</p>\n<p>If you often bring your laptop with you on the go or use it regularly for school or work, it\u2019s worth taking a few steps to keep your device safe. Here are some ways to prevent theft and prepare in case the worst happens.</p>\n<h2>Protecting your laptop data in case of theft</h2>\n<p>You can start by preparing your laptop. Simply requiring a password to log in can prevent thieves from accessing your data if it\u2019s stolen. Make it something that\u2019s not easy to guess but that you can still remember. Use uppercase and lowercase letters, numbers, and special characters if possible.</p>\n<p>To add another layer of security to your data, encrypt your hard drive. If you\u2019re not particularly tech-savvy, you can ask a tech expert for help.</p>\n<p>Finally, to prevent losing all your laptop\u2019s data, make a backup on a regular basis. You can use a cloud service that automatically saves your data periodically. The other option is to purchase an external hard drive to save your data on, but be sure to set a reminder to do it. It can be every week, month, or several months, depending on how frequently you use your laptop.</p>\n<h2>Preventing laptop theft from your car</h2>\n<p>Leaving your laptop in your car can make it vulnerable to theft. If possible, try to take your laptop with you and don\u2019t leave it unattended in your car. If that isn\u2019t an option, hide the laptop from prying eyes. It\u2019s best to store it in an enclosed trunk or under a seat. Above all, remember to lock your car as the first line of defense.</p>\n<h2>Keeping your laptop secure in public</h2>\n<p>Apart from your car, there are many other public places where your laptop can be stolen. However, you can make it less of a target.</p>\n<p>First, when carrying your laptop around in public, use a nondescript bag or briefcase that\u2019s not designed for only a laptop. If it\u2019s not obvious what you\u2019re carrying, someone may be less likely to steal it.</p>\n<p>However, you should make the laptop itself unique, so it can be identified by authorities if stolen. You can add permanent markings or stickers that aren\u2019t easy to remove. You should also keep the laptop\u2019s serial number at home or somewhere secure, as this will also help authorities identify it.</p>\n<p>It may seem obvious, but the best way to prevent laptop theft is to always keep it in your sight or with someone you trust. When that\u2019s not possible, there are still ways to protect it. You can get a laptop lock designed to fasten to a table leg, so the laptop cannot be moved.</p>\n<p>Also, consider investing in an alarm system for your laptop. There are wireless technologies that will sound a &#8220;chirp&#8221; on your phone if your laptop moves and you aren&#8217;t nearby. There are also perimeter systems, where if the laptop moves beyond a certain area, the computer will disable and emit a sound.</p>\n<h2>The bottom line</h2>\n<p>It\u2019s better to be safe than sorry when it comes to your laptop. There\u2019s no way to prevent theft entirely, but you can do a lot to prepare. If you\u2019d like more peace of mind, consider our <a href=\"https://www.progressive.com/electronic-device-insurance/\">laptop insurance</a>, which will replace your laptop if it\u2019s stolen. It\u2019s just another way to keep your laptop protected.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Our devices are an important part of our daily lives. No one expects them to be stolen, but these things can happen. Your laptop or Chromebook can be a valuable target for theft. If you often bring your laptop with you on the go or use it regularly for school or work, it\u2019s worth taking [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 452,
+    "featured_media": 45374,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [420],
+    "tags": [],
+    "yst_prominent_words": [
+      1018, 5668, 2244, 492, 2424, 1666, 4182, 11734, 2734, 3970, 1610, 586,
+      2686, 5686, 4192, 1670
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45238"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/452"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45238"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45238/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45376,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45238/revisions/45376"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45374"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45238"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45238"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45238"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45238"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45236,
+    "date": "2021-12-13T13:56:04",
+    "date_gmt": "2021-12-13T18:56:04",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45236" },
+    "modified": "2021-12-13T13:56:04",
+    "modified_gmt": "2021-12-13T18:56:04",
+    "slug": "adopt-a-senior-pet",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/turning-points/adopt-a-senior-pet/",
+    "title": { "rendered": "Why you should adopt a senior pet" },
+    "content": {
+      "rendered": "<p>There are many things to consider before adopting a senior pet, but the beauty and joy of giving a home to an older animal is immeasurable.</p>\n<p>However, before embarking on your adoption journey, it\u2019s important to learn about how dogs and cats age, the pros and cons of adopting older animals, and the best way to care for them.</p>\n<h2>How animals age</h2>\n<p>The senior designation for animals differs between species. For canines, their senior years are the last quarter of their life based on individual breeds\u2019 life expectancies. For felines, the senior life stage is from 11 years old onward (cats 15 years and older are considered \u201csuper seniors\u201d).</p>\n<p>Much like humans, senior pets tend to sleep more and eat less. They\u2019re generally less active and more susceptible to temperature changes. They may be more anxious and less well-equipped to handle stress. It\u2019s important to keep this in mind before adopting.</p>\n<h2>The pros and cons of senior adoption</h2>\n<p>There is a multitude of benefits of adopting a senior pet, but the cons shouldn\u2019t be taken lightly. Obviously, each animal is different, but below are some generalizations that should help guide you in your decision-making process.</p>\n<h3>Pros</h3>\n<ul>\n<li>Loyal and loving</li>\n<li>Grateful</li>\n<li>Calmer and wiser</li>\n<li>Established personalities, so fewer surprises</li>\n<li>Easier to train\n<ul>\n<li>Mental and physical abilities are fully developed</li>\n<li>Longer attention spans</li>\n<li>Older dogs are already housebroken</li>\n<li>Older cats already know how to use the litter box</li>\n<li>Contrary to popular belief, older dogs <u>can</u> definitely learn \u201cnew tricks&#8221;</li>\n</ul>\n</li>\n<li>Less active (and less likely to destroy your house!)</li>\n<li>Require less supervision</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>May have issues related to previous abuse or neglect</li>\n<li>May require retraining of bad habits</li>\n<li>Fewer cute, playful moments</li>\n<li><a href=\"https://www.progressive.com/lifelanes/household/pet-diabetes-signs/\">Health issues</a> (some listed below) may occur sooner rather than later\n<ul>\n<li>Arthritis</li>\n<li>Hearing loss</li>\n<li>Vision loss</li>\n<li>Dementia, which can present itself as:\n<ul>\n<li>Confusion</li>\n<li>A withdrawal of the animal\u2019s affection</li>\n<li>In cats, you may see aimless wandering and meowing</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Less time together</li>\n</ul>\n<h2>How to care for a senior pet</h2>\n<p>Caring for senior animals requires a different approach than caring for puppies or kittens. Upon first adopting, create a safe space for them in your home\u2014a place where they can escape when they feel overwhelmed. If they\u2019ve spent time in a shelter, lived life as a stray, or been abused or neglected in a previous home, they\u2019ll need time to adjust to living in a safe, loving environment.</p>\n<p>In deference to their advanced age, make sure there\u2019s plenty of shade if they spend time outside, as well as a way to stay warm when the weather is cold. Regular checkups with your veterinarian are integral to their continued health\u2014every six months is a good guideline but discuss it with your vet. Pay attention to behavioral alterations like changes in their water consumption, appetite, and bathroom habits. <a href=\"https://www.progressive.com/lifelanes/turning-points/healthy-eating-habits-pets/\">Feed them an age-appropriate diet, again, in consultation with your vet.</a></p>\n<p>In addition to their safe space, provide them with a comfortable bed for sleeping\u2014aging canine and feline bodies can ache just like aging human bodies! Install ramps or stairs for easy access if needed. For cats, consider adjusting the height of their litter box if mobility becomes an issue. Continue prioritizing exercise, but in an age- and mobility-appropriate way. Spending time together will be key, especially since playtime and training exercises will help keep their brains sharp.</p>\n<p>As animals age, their personal hygiene may suffer. Brushing their fur/hair is important, especially with cats, who may struggle to groom themselves as they age. (It also provides much-needed tactile shows of affection!) Good oral hygiene will be important in preventing heart and kidney issues. As their exercise and play habits change, you may need to trim their claws (especially with cats).</p>\n<h2>An important reminder</h2>\n<p>Even with all there is to consider in adopting a senior pet, never forget\u2014your time together may be shorter, but that just makes it all that much sweeter. Quality over quantity is the ethos here, and every animal deserves to live out their golden years with love, affection, and dignity.</p>\n<p><em>This content is subject to change without notice and offered for informational use only. You are urged to consult with your individual medical providers with respect to any information presented. Pets Best and any of its affiliates, including CareCredit, (collectively, \u201cSynchrony\u201d) make no representations or warranties regarding this content and accept no liability for any loss or harm arising from the use of the information provided. Your receipt of this material constitutes your acceptance of these terms and conditions.</em></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>There are many things to consider before adopting a senior pet, but the beauty and joy of giving a home to an older animal is immeasurable. However, before embarking on your adoption journey, it\u2019s important to learn about how dogs and cats age, the pros and cons of adopting older animals, and the best way [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 50,
+    "featured_media": 45359,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [420],
+    "tags": [],
+    "yst_prominent_words": [
+      8716, 9338, 1424, 742, 4488, 15715, 3810, 500, 1412, 760, 15713, 584,
+      11394
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45236"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/50"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45236"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45236/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45394,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45236/revisions/45394"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45359"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45236"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45236"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45236"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45236"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45240,
+    "date": "2021-12-07T10:37:29",
+    "date_gmt": "2021-12-07T15:37:29",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45240" },
+    "modified": "2021-12-08T15:35:08",
+    "modified_gmt": "2021-12-08T20:35:08",
+    "slug": "buying-life-insurance",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/turning-points/buying-life-insurance/",
+    "title": {
+      "rendered": "Why buying life insurance is easier than you think"
+    },
+    "content": {
+      "rendered": "<p>In the market for life insurance? Getting covered is easier\u2014and more affordable\u2014than you might think. No-hassle online tools make the process of researching options, finding a plan that works for you, and confidently making your decision simpler than ever before.</p>\n<p>Nonetheless, it\u2019s normal to have questions about whether you\u2019ve selected the right plan or if now is the right time to buy a policy. These questions are important to ask, and the answers should help you feel good about the financial protection you\u2019re putting in place for your family.</p>\n<p>Let\u2019s review some of the most common reasons people avoid buying life insurance, along with tips to make the process simple and straightforward.</p>\n<h2>Common reasons people avoid buying life insurance</h2>\n<h3>There are too many options.</h3>\n<p>Regardless of whether they\u2019re employed, married, or caring for kids, most adults should have some type of life insurance to protect their loved ones financially if they pass away. Yet only about <a href=\"https://www.limra.com/en/research/research-abstracts-public/2021/2021-insurance-barometer-study/\">half of Americans</a> currently have life insurance.</p>\n<p>The sheer number of life insurance plans out there can cause confusion for potential buyers. But while every life insurance company puts its own spin on its products, there are just a handful of basic plan types. Life insurance policies generally fall into three categories:</p>\n<ul>\n<li>Term policies that expire after a predetermined number of years (often 10, 15, 20, or 30 years).</li>\n<li>Permanent policies that build cash value over time and last until you pass away.</li>\n<li>Final expense policies that provide a smaller payout to loved ones to help cover a funeral, outstanding medical expenses, and other costs in the event of your death.</li>\n</ul>\n<p>Knowing which type you\u2019d like to buy can help you narrow down options more quickly and compare similar kinds of plans. There are also other types of policies that serve people with specific needs. <a href=\"https://www.progressive.com/life/\">Learn more about different types of life insurance here</a>.</p>\n<h3>I&#8217;m not ready to commit.</h3>\n<p>Buying life insurance can feel like a big commitment. Plus, many of us put off planning for the future. Unfortunately, the same reason you might give for not getting engaged doesn\u2019t really work with life insurance. There are <a href=\"https://www.progressive.com/answers/life-insurance-types/\">many policies</a> that can help your loved ones cover the costs of a funeral and settle your affairs or provide financial support if you pass away. These policies may not require a significant commitment and often cost less than you\u2019d expect.</p>\n<h3>It costs too much.</h3>\n<p>If your budget is a concern, you\u2019re not alone. The good news is that those concerns are unfounded in many cases. In fact, over <a href=\"https://www.limra.com/siteassets/newsroom/fact-tank/fact-sheets/facts-of-life-2021-format-vfinal.pdf\">half of all Americans</a> think that life insurance costs more than it actually does.</p>\n<p>Admittedly, life insurance pricing can feel confusing at first glance. After all, how can you afford a policy worth $250,000? Doesn\u2019t that cost hundreds of dollars a month? The simple answer is usually no. Some policies start at as little as $14 per month. Life insurance companies use precise and proven pricing methods based on factors like age, health, lifestyle, and more to help them provide low-cost policies.</p>\n<p>You might also feel like preventive financial expenses are harder to swallow than bills for current expenses, including student loans, car payments, and rent. However, if you were to pass away suddenly, who would help your family handle those expenses and pay for your funeral costs and medical bills? The low monthly payments required for most policies are an easy way to ensure that your family is provided for if you pass away.</p>\n<h3>I&#8217;m worried about taking a medical exam.</h3>\n<p>It\u2019s a common misperception that all life insurance policies require a health exam. While some policies do require basic health information and a physical, many people don\u2019t know that there are highly convenient options that don\u2019t require a <a href=\"https://www.progressive.com/answers/life-insurance-without-med-exam/\">medical exam</a>. There are also specific plans designed to accommodate people with pre-existing health conditions, including chronic issues. That said, if you\u2019re in relatively good health, it\u2019s worth it to buy life insurance that requires a medical exam. The test is quick, free, and virtually painless and can help you qualify for the lowest possible rates.</p>\n<h3>I don&#8217;t need it because I have savings, investments, or employer-sponsored coverage.</h3>\n<p>Any financial professional will tell you that saving for the future is a smart move. However, it\u2019s not always simple for family members to collect this money after a death. There are tax implications for estates and problems with liquidity (i.e., how easily assets like investments can be converted to cash). Plus, it\u2019s tough for most families to save up hundreds of thousands of dollars, let alone millions\u2014the level of protection a life insurance plan can provide.</p>\n<p>And though employer-sponsored life insurance plans can be a helpful supplement, many of these policies don\u2019t offer much coverage. After your family settles the expenses from your death, they may only have enough left for a few months of financial support.</p>\n<h3>It&#8217;s a lot of work.</h3>\n<p>Actually, <a href=\"https://www.progressive.com/answers/life-insurance-101/\">researching</a> and buying life insurance has only gotten easier over time. The days of listening to agent pitches and faxing cumbersome documents are over. It\u2019s incredibly easy to review coverage options, get quotes, and choose a plan online or by phone in a matter of minutes.</p>\n<h3>I don&#8217;t have kids or a spouse.</h3>\n<p>Even if you\u2019re not planning to help support children or a spouse with a <a href=\"https://www.progressive.com/answers/how-much-life-insurance-do-i-need/\">life insurance policy</a>, the cost of a funeral can easily total <a href=\"https://www.consumer.ftc.gov/articles/0301-funeral-costs-and-pricing-checklist\">$10,000</a> or more. Your loved ones can use your death benefit to help cover these expenses, pay off student loans or other debts you leave behind, or even make a donation to a charity in your name if you pass away sooner than expected.</p>\n<h2>The easiest way to buy life insurance for the first time</h2>\n<p>Know you need life insurance, but don\u2019t know where to start? A <a href=\"https://www.progressive.com/life/1-year-short-term-life-insurance/\">one-year term life insurance</a> policy can help first-time buyers or people seeking an \u201cin-between\u201d policy that provides short-term coverage for as little as $7 a month.</p>\n<p>Unlike long-term policies that can provide coverage for decades, the one-year term policy expires after just 12 months. This policy allows you to choose another option more often than other plans while still staying financially secure.</p>\n<p>The one-year term policy is a great choice for people who:</p>\n<ul>\n<li>Want short-term coverage to provide a death benefit for family members until they choose a longer-term policy.</li>\n<li>Don\u2019t have a lot of significant expenses they need to cover if they pass away (like a mortgage).</li>\n<li>Are looking for coverage after just starting a job or while they\u2019re between jobs.</li>\n<li>Need a low-cost option due to financial constraints or concerns.</li>\n<li>Want to skip a health exam.</li>\n</ul>\n<p>It\u2019s understandable to have reservations about life insurance. However, the widespread availability and low cost of many policies (in addition to easy price <a href=\"https://www.progressive.com/life/\">comparison tools</a>) mean it\u2019s easier than ever to secure a better financial future for your family.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In the market for life insurance? Getting covered is easier\u2014and more affordable\u2014than you might think. No-hassle online tools make the process of researching options, finding a plan that works for you, and confidently making your decision simpler than ever before. Nonetheless, it\u2019s normal to have questions about whether you\u2019ve selected the right plan or if [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 494,
+    "featured_media": 45389,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [420],
+    "tags": [],
+    "yst_prominent_words": [15696, 1394, 500, 1386, 3216],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45240"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/494"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45240"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45240/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45391,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45240/revisions/45391"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45389"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45240"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45240"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45240"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45240"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45145,
+    "date": "2021-11-22T10:25:21",
+    "date_gmt": "2021-11-22T15:25:21",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45145" },
+    "modified": "2021-11-22T10:25:21",
+    "modified_gmt": "2021-11-22T15:25:21",
+    "slug": "multi-pet-households",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/turning-points/multi-pet-households/",
+    "title": {
+      "rendered": "What to know about multi-pet, interspecies households"
+    },
+    "content": {
+      "rendered": "<p>Do you already share your life with an adorable dog or a beloved cat? Are you thinking about adding to your animal brood? Introducing new animals into a household is no easy feat, but it isn\u2019t a fruitless endeavor either.</p>\n<p>In this article, you\u2019ll find the pros and cons, as well as tips for a smooth transition and suggestions for the best breeds for cohabitation.</p>\n<h2>The pros and cons</h2>\n<p>Many of the benefits of owning several pets are the same as owning only one, just with a little extra boost. Sharing your home with more than one furry friend has added entertainment value as you watch them play together, as well as exponentially increasing the unconditional love in your life. Numerous studies have shown that pets help keep their humans happier and healthier\u2014they encourage exercise as well as decrease depression and anxiety. For children, animals can help lower the onset of allergies, as well as teach responsibility via caretaking chores. For the animals themselves, it helps relieve separation anxiety when their humans are out of the house.</p>\n<p>On the downside, the more animals you add to your house, the higher your expenses and the more work you need to put in. There will be further demands on your attention because even if your canine and feline companions help entertain each other, they still need undivided attention from you as well. Your ability to travel could be curtailed by logistics and increased expenses. Moreover, there is no guarantee that your cat and dog will get along.</p>\n<p>If after all of this you\u2019re willing to take the risk, there are a couple more things to consider. If you already have one pet, make sure they\u2019ve been in the same home for at least a year before introducing a new animal. If you have no pets, consider adopting two at the same time, so they can begin adjusting to one another immediately. Ideally, you can find two who are already bonded\u2014just ask your local shelter for any buddies they may have available for adoption.</p>\n<h2>The dos and don&#8217;ts of introducing animals</h2>\n<p>First and foremost, go slowly and be willing to back up a step if you need to. As always, patience is key when dealing with four-legged family members (and to be honest, two-legged human members, too!).</p>\n<ol>\n<li>Divide the house: You can use baby gates or exercise pens for this, or, depending on the layout of your house, simply close doors. In either case, ideal barriers will be opaque.</li>\n<li>Share meals: Once the animals are settled into their individual spaces, start feeding them at the same time on their respective sides of the divider.</li>\n<li>Swap scents: Sharing things like blankets or bedding from one animal with the other will help increase their familiarity with one another.</li>\n<li>Visual introduction: Switch to a see-through barrier, but continue the shared feeding times and scent swapping.</li>\n<li>Remove boundary: When both animals are ready (i.e., showing no signs of fear or aggression), you can remove the barrier for supervised interactions. Consider keeping your canine leashed and providing a place for your feline to hide or get away. While continuing the shared mealtime, don\u2019t feed them too closely together. And pay close attention to their respective body language. Positive signs to watch for in dogs include a sweeping tail wag, no staring, and relaxed ears. For cats, you want to see a relaxed body, tail in the air, and relaxed ears.</li>\n<li>Increase movement: Keep the leash on your dog, try moving around more with both animals.</li>\n<li>Remove leash: Observe how the animals interact before moving on to the next step.</li>\n<li>Observe from a distance: Start by placing yourself farther away from both animals within the same room, then moving to another room, all while keeping an ear out for any trouble.</li>\n<li>If all else fails, don\u2019t lose hope, but do hire a professional to help.</li>\n</ol>\n<h2>How you can set yourself up for success</h2>\n<p>There are no guarantees, of course, as each dog or cat will have its own individual personality and temperament, but below are some of the breeds most likely to get along with one another.</p>\n<p>Cat breeds most likely to get along with dogs:</p>\n<ul>\n<li>American shorthair\u2014mellow and smart</li>\n<li>Japanese bobtail\u2014enjoys companionship and doing tricks</li>\n<li>Siberian\u2014playful and big enough to play with larger animals</li>\n<li>Maine coon\u2014gentle with dog-like behavior</li>\n<li>Birman\u2014friendly and calm</li>\n<li>Norwegian Forest\u2014curious and trainable</li>\n<li>Tonkinese\u2014like to climb and play fetch</li>\n<li>Ragdoll\u2014easy going and affectionate</li>\n<li>Turkish Angora\u2014high energy and smart</li>\n<li>Turkish Van\u2014energetic, \u201cswimming cats&#8221;</li>\n</ul>\n<p>Dog breeds most likely to get along with cats:</p>\n<ul>\n<li>Basset hound\u2014loyal and patient</li>\n<li>Beagle\u2014friendly and loving</li>\n<li>Bichon frise\u2014entertaining and sweet</li>\n<li>Cavalier King Charles spaniel\u2014gentle and affectionate</li>\n<li>Golden retriever\u2014playful and adaptable</li>\n<li>Labrador retriever\u2014kind and outgoing</li>\n<li>Maltese\u2014small, gentle, and loving</li>\n<li>Newfoundland\u2014calm and protective</li>\n<li>Pug\u2014love attention, social</li>\n<li>Shetland sheepdog\u2014mild-mannered and welcoming</li>\n</ul>\n<p>Clearly, there are challenges associated with growing your squad of pets, but when you can reap the benefits of unconditional love, isn\u2019t it worth it? Remember, the steps to success are: a) consider the pros and cons before deciding; b) move slowly and carefully through the process; and c) carefully consider the breed, temperament, and personality of each furry family member.</p>\n<h2>The bottom line</h2>\n<p>Whether you&#8217;re introducing your cat to your dog or adding multiple pets to an existing household, it&#8217;s important to always keep your four-legged family members <a href=\"https://www.progressive.com/pet-insurance/\">protected with Progressive.\u00a0</a></p>\n<p><em>This content is subject to change without notice and offered for informational use only. You are urged to consult with your individual medical providers with respect to any information presented. Pets Best and any of its affiliates, including CareCredit, (collectively, \u201cSynchrony\u201d) makes no representations or warranties regarding this content and accept no liability for any loss or harm arising from the use of the information provided. Your receipt of this material constitutes your acceptance of these terms and conditions.</em></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Do you already share your life with an adorable dog or a beloved cat? Are you thinking about adding to your animal brood? Introducing new animals into a household is no easy feat, but it isn\u2019t a fruitless endeavor either. In this article, you\u2019ll find the pros and cons, as well as tips for a [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 50,
+    "featured_media": 45159,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [420],
+    "tags": [],
+    "yst_prominent_words": [
+      1424, 742, 5046, 5052, 3810, 1502, 14138, 492, 1236, 752, 5862, 15713, 710
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45145"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/50"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45145"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45145/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45234,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45145/revisions/45234"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45159"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45145"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45145"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45145"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45145"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45152,
+    "date": "2021-11-02T10:35:36",
+    "date_gmt": "2021-11-02T14:35:36",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45152" },
+    "modified": "2021-11-02T10:36:52",
+    "modified_gmt": "2021-11-02T14:36:52",
+    "slug": "how-to-launch-a-boat",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/adventure/how-to-launch-a-boat/",
+    "title": { "rendered": "How to launch a boat for the first time" },
+    "content": {
+      "rendered": "<p>Learning how to launch a boat for the first time, either by yourself or with help, can be challenging for a beginner. Check out this video from our partners at <a href=\"https://www.discoverboating.com/resources/launching-a-boat?utm_source=YouTube&amp;utm_medium=video-2&amp;utm_campaign=Progressive+Safety+Videos&amp;utm_content=launching-a-boat\">Discover Boating</a> to help make the process as simple and stress-free as possible.</p>\n<div class=\"arve-wrapper\" data-mode=\"normal\" data-provider=\"youtube\" id=\"arve-f5kY1Lx7qa0\" style=\"max-width:900px;\" itemscope itemtype=\"http://schema.org/VideoObject\">\n<div class=\"arve-embed-container\" style=\"padding-bottom:56.250000%\"><iframe loading=\"lazy\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"arve-iframe fitvidsignore\" frameborder=\"0\" name sandbox=\"allow-scripts allow-same-origin allow-presentation allow-popups\" scrolling=\"no\" src=\"https://www.youtube-nocookie.com/embed/f5kY1Lx7qa0?iv_load_policy=3&#038;modestbranding=1&#038;rel=0&#038;autohide=1&#038;playsinline=1&#038;autoplay=0\" width=\"480\" height=\"270\"></iframe></div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Learning how to launch a boat for the first time, either by yourself or with help, can be challenging for a beginner. Check out this video from our partners at Discover Boating to help make the process as simple and stress-free as possible.</p>\n",
+      "protected": false
+    },
+    "author": 27,
+    "featured_media": 45168,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [416],
+    "tags": [],
+    "yst_prominent_words": [492],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45152"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/27"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45152"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45152/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45179,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45152/revisions/45179"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45168"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45152"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45152"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45152"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45152"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45143,
+    "date": "2021-11-01T12:15:17",
+    "date_gmt": "2021-11-01T16:15:17",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45143" },
+    "modified": "2021-11-01T12:15:17",
+    "modified_gmt": "2021-11-01T16:15:17",
+    "slug": "travel-documents",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/adventure/travel-documents/",
+    "title": { "rendered": "Travel documents you&#8217;ll want to pack" },
+    "content": {
+      "rendered": "<p>Preparation is an important part of any trip, and packing can be stressful for some travelers.</p>\n<p>While the contents of your suitcase may change depending on the unique purpose and destination, here are a few key documents you\u2019ll want to make sure are always with you, no matter where your travels take you:</p>\n<h2>Driver&#8217;s license, passport, and travel visa</h2>\n<p>These documents are required for most forms of travel. While passports and travel visas are commonly associated with international travel, domestic travelers may want to consider packing a passport even while traveling within the U.S.</p>\n<p>Beginning in May 2023, domestic travelers are required to have a Real ID, which is an identification card that meets the standards laid out by the U.S. government in the Real ID Act of 2005. The Real ID driver\u2019s license looks very similar to your current driver\u2019s license, except it includes a new star icon on the top right corner.\u00a0 For travelers without a Real ID, a valid passport or TSA-approved ID is an acceptable alternative for domestic travel.</p>\n<h2>Copies of all identification documents</h2>\n<p>Savvy travelers know to expect the unexpected. Having photocopies of your important documents can save you a headache in the event your important travel documents are lost.</p>\n<p>Keep your original documents with you, either in your carry-on or personal item. One copy of each of these identification documents can be stored in each checked bag.</p>\n<p>These copies can help you in multiple situations. Lose original identification? You\u2019ve got copies to get you new ones\u2014or get you home. Lose a bag? The airline or tour group has extra identification to prove that it is indeed your luggage.</p>\n<p>We also recommend making digital copies and leaving them at home with a trusted loved one that can help if you need access to them while away.</p>\n<h2>Travel insurance plan details</h2>\n<p>While a hard copy of your travel insurance certificate can oftentimes be very long (30-60 pages depending on the plan), you may be glad to have a copy if you need to refer to the fine print of your plan due to a stressful situation.</p>\n<p>Luckily, most travel insurance companies have a mobile app that can hold your travel insurance plan information, as well as all the information you need to call them and start the claims process. Many companies will email your certificate to you. You can keep this file handy in your email inbox or download the PDF to your smartphone. If you download the information prior to leaving on your trip, you won\u2019t need a data plan or wireless internet to access it. For a travel insurance quote, <a href=\"https://www.progressive.com/insurance/travel/\">click here</a>.</p>\n<h2>Travel itinerary details</h2>\n<p>Whether you have only one reservation or several, you\u2019ll want to keep copies of your itinerary in your travel luggage. This can help in myriad ways. We particularly recommend having digital and hard copies as proof that you already paid for a flight or hotel to avoid any questions if you arrive and there\u2019s a problem with your reservation.</p>\n<p>If you purchased tickets for an event or tour, even if you\u2019re picking up your tickets at will call, you\u2019ll want some documentation showing that you already paid for the event. If you\u2019re traveling with the actual tickets, you can also bring proof of purchase with you as a backup.</p>\n<p>Also, if you should need to call your travel insurance company for any reason, you\u2019ll have all the details on hand to explain the situation without hesitation.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Preparation is an important part of any trip, and packing can be stressful for some travelers. While the contents of your suitcase may change depending on the unique purpose and destination, here are a few key documents you\u2019ll want to make sure are always with you, no matter where your travels take you: Driver&#8217;s license, [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 43,
+    "featured_media": 45170,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [416],
+    "tags": [],
+    "yst_prominent_words": [
+      4454, 2730, 3146, 5724, 2832, 1394, 4686, 2732, 3856, 682, 1192, 7432,
+      7484, 5124
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45143"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/43"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45143"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45143/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45178,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45143/revisions/45178"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45170"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45143"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45143"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45143"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45143"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45147,
+    "date": "2021-10-27T12:40:44",
+    "date_gmt": "2021-10-27T16:40:44",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45147" },
+    "modified": "2021-10-27T12:40:44",
+    "modified_gmt": "2021-10-27T16:40:44",
+    "slug": "best-apps-for-pets",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/turning-points/best-apps-for-pets/",
+    "title": {
+      "rendered": "The best apps, gadgets, and websites for your pets"
+    },
+    "content": {
+      "rendered": "<p>Nowadays, it seems like there\u2019s an app or website for anything and everything. Snarky weather app? We\u2019ve got that. Personal UV toothbrush sanitizer? Not a problem. Need a website that shows wind direction and speed across the United States at any given moment? You\u2019re covered.</p>\n<p>Given that, it likely won\u2019t be surprising to hear that there are countless apps, gadgets, and websites that can be used to enhance and simplify the life you share with your furry friend.</p>\n<h2>Pet sitters and daycare for dogs</h2>\n<p>Heading out of town and in need of a pet sitter? Busy with work and falling behind on your daily walks with your four-legged friend? There\u2019s an app for that. Apps like <a href=\"https://www.rover.com/app/\">Rover</a> and <a href=\"https://wagwalking.com/\">Wag!</a> have been gaining traction in recent years. They\u2019ll help you not only find a pet sitter or dog walker near you, but they\u2019ll also allow you to filter according to your neighborhood, the particular lifestyle that you and your pet lead, and more. Sitters are thoroughly vetted, and the app offers GPS tracking of their walks with your beloved canine. Payment can be made easily through the app, so you don\u2019t have to worry about having cash on hand.</p>\n<p>There are even more websites to peruse in search of the perfect pet sitter or dog daycare. <a href=\"https://www.petsit.com/\">Pet Sitters International</a> not only helps you find a pet sitter, but they also educate and support pet sitters in their business endeavors, so you can rest assured that your animals are in good hands. With <a href=\"https://dogvacay.com/\">DogVacay</a>, you can search for someone to come to your house or someone who will welcome your pet into their home. <a href=\"https://www.petbacker.com/\">Pet Backer</a> will help you find a place to board your pet in addition to sitters who will come to your house. You can also find options for pet daycares, dog walkers, groomers, and pet taxis that will accept animal passengers. Chains like <a href=\"https://www.campbowwow.com/\">Camp Bow Wow</a> and <a href=\"https://www.dogtopia.com/\">Dogtopia</a> can be found in many cities across the United States with user-friendly websites you can search by location. You can rest easy knowing that the franchises provide consistent support with daycares, boarding services, and more.</p>\n<h2>Pet-friendly travel</h2>\n<p>The last time you booked a trip, did you start by visiting a travel agent, happily ensconced in their office, surrounded by vintage travel posters, and intricately folded maps? No, probably not. The majority of (human) travel is booked online these days and travel with pets in tow is no different. There are numerous websites centered around travel with pets, all with slightly different offerings. <a href=\"https://petfriendlytravel.com/\">Pet Friendly Travel</a> allows you to search for rental houses and hotels, even dog-friendly restaurants. <a href=\"https://www.gopetfriendly.com/blog/travel-destinations/\">Go Pet Friendly</a> offers suggestions on places to travel with your canine companion. <a href=\"https://www.tripswithpets.com/\">Trips with pets</a> congregates chain hotel policies on animals in one place, along with an option to search for places to stay along a particular route. <a href=\"https://www.dogfriendly.com/\">Dogfriendly</a> offers state by state guides.</p>\n<p>Then there are the apps that make it easy to search while you\u2019re on the road. <a href=\"https://apps.apple.com/us/app/id937974538?fbclid=IwAR28xqbK9ELbdqJmVLNGl2T6BeqcOvmAtx9BolzlWYI-VmRIbZUNQlnlSAc\">Paw Parks</a> helps you find nearby dog parks and dog-friendly trails. <a href=\"https://www.doglandapp.com/\">Dog Land</a> allows you to reach out to local dog owners and keep track of where you\u2019ve been. <a href=\"https://barkhappy.com/\">Bark Happy</a> helps you find dog-friendly events and share lost pet information if needed. Spend a few minutes playing around on these apps to find the one that makes the most sense for you and you\u2019re sure to make any trip easier to manage and more enjoyable in the long run.</p>\n<h2>Latest and greatest in gadgets</h2>\n<p>Technology waits for no one and those of us who share our lives with animals are no different!</p>\n<h3>Video cameras</h3>\n<p>If you\u2019re looking for video cameras for your home so that you can monitor your animals while you\u2019re gone, prepare to be inundated with options.</p>\n<ul>\n<li><a href=\"https://petcube.com/cam/\">Petcube Cam</a> is an affordable HD camera that allows you to see and talk to your pets when you\u2019re not home. The two-way audio means that your beloved furball will be able to recognize your voice and the wide-angle view means there are fewer blind spots.</li>\n<li><a href=\"https://store.skymee.com/products/skymee-dog-camera-petalk-aimobile-full-hd-pet-camera-with-treat-dispenser-interactive-toy-for-dogs-and-cats-romote-control-via-app\">Skymee Petalk AI II</a> comes with night vision and motion detection so that you don\u2019t have to miss a thing. The video feed can be viewed on your phone.</li>\n<li><a href=\"https://www.yitechnology.com/yi-dome-x-y30\">YI Smart Dome Security Camera X</a> offers 360-degree coverage of a room. It\u2019s able to detect the differences between humans and animals, offers instant notifications of movement, and allows you to store videos with their cloud storage system.</li>\n</ul>\n<h3>Smart feeding devices</h3>\n<p>If you\u2019re looking for a smart feeding device, companies like <a href=\"https://store.petsafe.net/feeders?_ga=2.47542631.1756145000.1629350163-1751933832.1629350163\">PetSafe</a> and <a href=\"https://www.surepetcare.com/en-us/pet-feeder\">Sure Petcare</a> offer multiple versions, depending on your needs.</p>\n<ul>\n<li><a href=\"https://arfpets.com/products/arf-pets-automatic-pet-feeder-food-dispenser-for-dogs-cats\">Arf Pets Automatic Feeder</a> allows you to customize the serving size that is dispensed on an adjustable schedule.</li>\n<li><a href=\"https://petkit.us/\">Pet Kit</a> has both automatic feeders and filtered water dispensers.</li>\n<li>Although some brands offer cat- or dog-specific feeders, many are useable for both canines and felines, like Petlibro\u2019s or <a href=\"https://www.chewy.com/cat-mate-c500-digital-5-meal/dp/154555\">Cat Mate\u2019s 5 Meal Dog &amp; Cat Feeder</a>.</li>\n</ul>\n<p>With a little bit of research, you can find not only the feeder that will work best for your animal, but also the one that will look best in your home!</p>\n<h3>Wearable technology</h3>\n<p>Plus, let\u2019s not forget the wearable tech available for your animal!</p>\n<ul>\n<li>The <a href=\"https://www.pitpat.com/activity-monitor/\">PitPat activity monitor for dogs</a> helps you track your canine\u2019s exercise to make sure they\u2019re staying healthy and fit.</li>\n<li>The <a href=\"https://www.fitbark.com/store/fitbark2/\">FitBark 2</a> not only monitors activity, but it also tracks sleep to help you make the right health-related decisions for your pooch.</li>\n<li>On the safety side, the <a href=\"https://thegadgetflow.com/portfolio/tagg-pet-tracker-97/\">Tagg GPS Pet Tracker</a> helps ensure that you\u2019ll always know where your beloved pet is.</li>\n<li><a href=\"https://tractive.com/en-us/pd/gps-tracker-dog\">Tractive</a> offers a version that is waterproof and updates your four-legged friend\u2019s location every two to three seconds for peace of mind.</li>\n</ul>\n<h3>Other gadgets</h3>\n<p>If you\u2019re enjoying your foray into tech mania, why not take it a step further and buy a self-cleaning litter box or microchip-operated pet door? From top of the line (with a price tag to match) boxes like <a href=\"https://www.litter-robot.com/litter-robot-iii-open-air-with-connect.html\">Litter-Robot 3 Connect</a> to the simpler, less expensive PetSafe <a href=\"https://store.petsafe.net/simply-clean-litter-box\">Simply Clean Automatic Litter Box</a>, technology makes it easy to put the days of messy litter cleanups behind you.</p>\n<p>Bringing peace of mind to your life, microchip-operated pet doors allow you to program what type and which animals can enter and exit at any given time. <a href=\"https://www.surepetcare.com/en-us/home\">Sure Petcare</a> offers several different versions, with features like selective entry and exit, electronic override locks, and timer controls. Price varies, of course, between high-end versions like <a href=\"https://www.hitecpet.com/petdoors.html\">High-Tech Pet Pet Doors</a> and cheaper options like <a href=\"https://store.petsafe.net/microchip-cat-door\">PetSafe Cat Door</a>.</p>\n<p>Much as with the plethora of apps, gadgets, and websites geared to making human lives easier, there is a similar amount of options to try for our pets. Take a moment to consider your life with your animal friends and where a little technology might make life more enjoyable for everyone in the house.</p>\n<h2>The bottom line</h2>\n<p>Whether you&#8217;re searching for the newest gadget on the market or the best app for dog-walking, be sure to always keep your four-legged friend <a href=\"https://www.progressive.com/pet-insurance/\">protected with Progressive.</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Nowadays, it seems like there\u2019s an app or website for anything and everything. Snarky weather app? We\u2019ve got that. Personal UV toothbrush sanitizer? Not a problem. Need a website that shows wind direction and speed across the United States at any given moment? You\u2019re covered. Given that, it likely won\u2019t be surprising to hear that [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 50,
+    "featured_media": 45162,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [420],
+    "tags": [],
+    "yst_prominent_words": [1412, 1840, 760, 7724, 8390, 7952, 1656],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45147"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/50"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45147"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45147/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45175,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45147/revisions/45175"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45162"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45147"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45147"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45147"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45147"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45033,
+    "date": "2021-09-14T10:32:40",
+    "date_gmt": "2021-09-14T14:32:40",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45033" },
+    "modified": "2021-09-14T10:32:40",
+    "modified_gmt": "2021-09-14T14:32:40",
+    "slug": "how-to-sell-classic-car",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/on-the-road/how-to-sell-classic-car/",
+    "title": { "rendered": "How to sell a classic car without the heartache" },
+    "content": {
+      "rendered": "<p>Are you thinking about selling your classic car this year, perhaps to free up space in your garage for that game-over, once-in-a-lifetime automotive purchase? You\u2019re not alone. The classic car market has really heated up during the past year, with both prices and transaction volume increasing significantly. The bad news? You might end up paying more money than you expect for your next classic. The good news? You might also be surprised at what your current car is worth.</p>\n<p>Let\u2019s take a look at some great ways to get your car in the hands of its next owner\u2014and also look at some tips that can help you get the most money possible regardless of where and how you choose to sell it.</p>\n<h2>What to do before you list</h2>\n<p>The vast majority of classic cars nowadays are sold to people who never see them in person prior to the final stages of the sale, which means that good, solid, honest vehicle photography goes a long way in ensuring you get the highest sale price.</p>\n<h3>1. Clean the car</h3>\n<p>Start by <a href=\"https://www.progressive.com/lifelanes/on-the-road/how-to-wash-a-classic-car/\">thoroughly cleaning the car</a>: outside, inside, underneath, in the wheel wells, and anywhere else a potential buyer might want to see prior to completing a purchase.</p>\n<p>Don\u2019t worry too much about putting multiple coats of wax on a car; a camera can\u2019t really see the difference in shine. But it <em>is </em>important to get a good detailing on parts of the car that will look scruffy otherwise, such as in the nooks and crannies of grilles, taillights, and vinyl tops.</p>\n<h3>2. Hire a professional vehicle photographer</h3>\n<p>Once your car is ready to go, you can enlist a professional vehicle photographer to take the 50 (or more) photos preferred by online auction companies, or you can do it yourself. If you choose the latter option, take your photographs in the hour surrounding dawn or dusk, in a clear paved lot with no trees or telephone poles to distract from the lines of the car.</p>\n<p>After you get all of the big-picture shots showing the car from all angles, get into the details! Extensive photography of the engine bay, the underside of the car, suspension, exhaust, and other areas is always welcome.</p>\n<p>Most people are unwilling to take photographs of a car\u2019s rough areas because they don\u2019t want to scare away buyers, but it\u2019s been shown that honest and complete visual documentation of a car\u2019s problem areas actually puts buyers at ease. So, take those photos of missing trim, surface rust, dents, dings, and anything else you can. A good guideline for what to photograph: <em>Would I be upset if I bought this car online and didn\u2019t know about this flaw? </em>If the answer is \u201cYes!\u201d then you should take a clear photograph of the area in question. Don\u2019t be afraid to take too many photos; for some buyers, there\u2019s no such thing!</p>\n<p>Once your photography is done, fill the car with gas and make sure it\u2019s ready for a safe test drive. Now it\u2019s time to get it sold!</p>\n<h2>Choosing your venue</h2>\n<h3>List your car online</h3>\n<p>Believe it or not, if you know what your car is worth and you\u2019re interested in minimizing your fees, it can sometimes really pay off to start by listing your car on <a href=\"https://www.craigslist.org/about/sites\">Craigslist</a>, <a href=\"https://www.facebook.com/marketplace\">Facebook Marketplace</a>, <a href=\"https://www.autotrader.com/\">AutoTrader</a>, or another low-cost listing site. This is true for almost any classic below a seven-figure valuation.</p>\n<p>You never know \u2026 there could be a local buyer who really wants exactly what you have, and is willing to pay a fair price without getting an auction company involved. Doing this can save you hundreds or even thousands of dollars.</p>\n<h3>Online auction house</h3>\n<p>The next stop is often an online auction house. Make sure you really understand the fees and assessments involved; they can be significant. While \u201cno reserve\u201d auctions can often get additional bidders excited about a car, don\u2019t be afraid to set a reserve if your car has a limited or unique set of buyers. It\u2019s better to take a few runs at a sale than it is to sell it for an undesirable price.</p>\n<h3>Consignment dealer</h3>\n<p>A good alternative to both of the above options: a consignment dealer. Often these dealers have customers lined up for a certain kind of car, and while the fees for such an arrangement can be considerable, it\u2019s also possible to get a higher price from the right store. There\u2019s also greater privacy, and less hassle, in letting a dealer take all the calls and answer all the questions on your behalf.</p>\n<h3>Conventional auction</h3>\n<p>Tried all of the above with no success? Or maybe you\u2019re just in a hurry to sell this car and move on to the next one? Then a <a href=\"https://www.progressive.com/lifelanes/on-the-road/buying-a-car-at-auction/\">conventional auction is a way to go</a>. You\u2019ll have to cover the costs of getting the car to the auction in running condition, and you\u2019ll have some additional expenses involved, but when that hammer comes down, the deal is done and you can move on. As with online auctions, make sure you understand all of the terms and conditions involved before committing to a listing.</p>\n<h2>How to be a great previous owner</h2>\n<p>It\u2019s always nice to be the kind of previous owner every classic car owner wishes they had\u2014so bundle up all your service records and documentation in a binder (or three!) to go along with your car when it sells. You might be willing to take a call from the next owner, or you might not be, but it\u2019s good to set the expectation either way at the time of sale.</p>\n<p>Last but not least, it\u2019s a good idea to keep your <a href=\"https://www.progressive.com/classic-car-insurance/\">insurance active</a> until you know all title and registration issues have been cleared by the new owner. Congratulations! You\u2019re now free to get the next classic car of your dreams.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Are you thinking about selling your classic car this year, perhaps to free up space in your garage for that game-over, once-in-a-lifetime automotive purchase? You\u2019re not alone. The classic car market has really heated up during the past year, with both prices and transaction volume increasing significantly. The bad news? You might end up paying [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 56,
+    "featured_media": 45049,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [418],
+    "tags": [],
+    "yst_prominent_words": [
+      8996, 2042, 1018, 2474, 1096, 8824, 2468, 10892, 1400, 11842
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45033"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/56"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45033"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45033/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45059,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45033/revisions/45059"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45049"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45033"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45033"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45033"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45033"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45029,
+    "date": "2021-09-07T10:13:24",
+    "date_gmt": "2021-09-07T14:13:24",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45029" },
+    "modified": "2021-09-07T10:13:24",
+    "modified_gmt": "2021-09-07T14:13:24",
+    "slug": "classic-car-ready-to-drive",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/on-the-road/classic-car-ready-to-drive/",
+    "title": {
+      "rendered": "How to keep your classic car fresh and ready to drive"
+    },
+    "content": {
+      "rendered": "<p>\u201cWill it start?\u201d That\u2019s the most common question on the mind of classic car owners who find themselves going weeks or even months in between Sunday drives or late-night cruise-ins.</p>\n<p>However, when it comes to keeping a classic car both ready <em>and </em>safe to use over long periods of time, there are other factors at play that can be even more important than the level of charge in the battery. We listed some common failure points below, plus a few expiration dates that every classic car owner should be aware of.</p>\n<h2>What does my classic need in order to be ready?</h2>\n<h3>Battery tending device</h3>\n<p>The most common problem faced when <a href=\"https://www.progressive.com/lifelanes/on-the-road/classic-car-starting-after-storage/\">firing up a classic car for the first time in a while</a> is the obvious one\u2014it won\u2019t start! For most owners, this is as simple as buying a battery tending device. Most of them have two parts: a small harness that connects to the positive and negative terminals of your car\u2019s battery, and the charger itself, that plugs into the wall and then can be plugged into the harness in between drives.</p>\n<p>The best tenders are capable of charging a battery up from a low-or-no-charge state, keeping the battery properly charged when not in use, <em>and </em>conditioning the battery with gentle charge and discharge cycles. Some of them will even offer you a condition report on the battery as they charge. When in doubt, buy a heavier-duty model. Classic-car owners whose vehicles use a six-volt electrical system will want to make sure they buy the appropriate version; the combination of a 12-volt charger and a six-volt electrical system can be an unhappy one.</p>\n<p>Are you in a situation where you can\u2019t get AC power to your garage or storage area? Consider removing your battery and storing it at your home between drives. In most cases, you\u2019ll still want to use a battery tending device, although since an unplugged battery shouldn\u2019t discharge quickly you can often leave it off the tender for a week or more at a time.</p>\n<h3>Battery disconnect device</h3>\n<p>Last but not least, consider getting a battery disconnect device, which puts a small removable pin or plug into the positive-side terminal connection. Older cars tend to accumulate small short-circuits and mysterious electrical drains over time, and this can prevent those drains from taking their toll on your battery and making the battery tending device work harder.</p>\n<h3>Fuel</h3>\n<p>The next thing to consider is fuel. It\u2019s always a good idea to use a fuel stabilizing product between fill-ups, particularly if you live in an area where ethanol is added to the fuel at the pump. While traditional pure gasoline can retain its properties for a year or more, ethanol-added gasoline often deteriorates quickly in the tank.</p>\n<h3>Tire gauge and pancake air compressor</h3>\n<p>A tire gauge and small pancake air compressor are also helpful for occasional-use automobiles. Just start up the compressor, bring it to full pressure, <a href=\"https://www.progressive.com/lifelanes/on-the-road/springtime-start-up/\">then take it out to the garage or storage area</a>. You can then adjust the pressure of all four tires to the correct levels. While modern wheel/tire combinations rarely lose significant pressure over months or even years, the same is not the case for older wheels and tires, which frequently don\u2019t have the same precise airtight seal as their newer counterparts.</p>\n<h2>Watch the age and condition of these items</h2>\n<p>The relaxed rate at which occasional-use vehicles rack up miles and operating hours can cause us to forget some important maintenance intervals. Some of the below items are related to the health of your car, while others can be important to <em>your </em>health.</p>\n<p><strong>Engine oil </strong>is often the first thing people think about keeping changed in a classic car, but if the car reaches proper operating temperature every time it\u2019s started up, it can be possible to use the same oil for years with no trouble. Take a quick look at your dipstick before starting. If the oil is still clear and clean, chances are you\u2019re fine. But if it\u2019s dark or sludgy, now\u2019s a good time to change it.</p>\n<p><strong>Antifreeze </strong>has a limited lifespan in normal use. A basic antifreeze tester, available at any auto parts shop, can let you know if it\u2019s time to make a change.</p>\n<p><strong>Rubber seals </strong>can deteriorate with time and sunlight. Before making a longer trip, check under the car for leaks and visual condition. Start the car, bring it to temperature, let it cool off, then check again.</p>\n<p><strong>Transmission and differential fluid/oil </strong>are often overlooked. If you don\u2019t know the last time your transmission fluid was changed or the last time your differential was serviced, it\u2019s a good idea to have those services performed. In particular, rear differentials can run dry in use and fail in an expensive fashion on the open road.</p>\n<p><strong>Headlight and taillight bulbs </strong>don\u2019t just wear out when they are in use; over time, they can deteriorate in storage, leading to a dim view of the road or potential problems with traffic behind you.</p>\n<h2>The most overlooked, and important, item</h2>\n<p>Almost nobody worries about the age of their tires. After all, don\u2019t they wear out in use? That\u2019s true for daily-driven cars, but for classics, it\u2019s common to see tires that look pretty good despite being 10 or even 20 years old. Keeping a car out of the sun can prevent dry rot and cracking in the sidewalls. That does <em>not </em>mean that the tire is safe to use.</p>\n<p>Over time, even the highest-quality tires degrade in ways you can see and ways you cannot see. Most vehicle manufacturers recommend that you replace your tires every six years, while the tire manufacturers often recommend a replacement at the 10-year mark regardless of wear or visual condition. This can be a tough pill to swallow\u2014who wants to spend serious money on new tires when the old ones still look fine? But it can have a significant impact on the safety of your vehicle.</p>\n<h2>Watch that cold start!</h2>\n<p>Has it been more than a year since you last started your classic? You might want to consider consulting with a mechanic about turning the engine over safely. Over time, the oil drains from all parts of an engine, meaning that the cold start can be hard both on the starter and on the wear surfaces of the engine. It\u2019s common to put a few drops of oil into the spark plug holes before starting an engine that has been dormant for a while, but your mechanic may have specific tips for your car.</p>\n<p>When your car is ready to run, it\u2019s also a good idea to make sure that <a href=\"https://www.progressive.com/classic-car-insurance/\">your insurance is still in force and up to date</a>. Print out a proof of insurance and put it in the glovebox. It can save you a lot of time and hassle in the event of a traffic stop\u2014leaving you, and your classic, more time to enjoy the open road!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>\u201cWill it start?\u201d That\u2019s the most common question on the mind of classic car owners who find themselves going weeks or even months in between Sunday drives or late-night cruise-ins. However, when it comes to keeping a classic car both ready and safe to use over long periods of time, there are other factors at [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 56,
+    "featured_media": 45054,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [418],
+    "tags": [],
+    "yst_prominent_words": [4948, 2948, 1018, 1096, 3942, 584, 12166],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45029"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/56"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45029"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45029/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45058,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45029/revisions/45058"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45054"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45029"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45029"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45029"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45029"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 45027,
+    "date": "2021-09-01T13:09:26",
+    "date_gmt": "2021-09-01T17:09:26",
+    "guid": { "rendered": "https://www.progressive.com/lifelanes/?p=45027" },
+    "modified": "2021-09-01T13:09:26",
+    "modified_gmt": "2021-09-01T17:09:26",
+    "slug": "life-insurance-awareness-month",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.progressive.com/lifelanes/turning-points/life-insurance-awareness-month/",
+    "title": {
+      "rendered": "5 things to know for Life Insurance Awareness Month"
+    },
+    "content": {
+      "rendered": "<p>Most Americans recognize the importance of life insurance: About <a href=\"https://www.limra.com/en/newsroom/news-releases/2020/2020-insurance-barometer-study-reveals-a-significant-decline-in-life-insurance-ownership-over-the-past-decade/\">70% of Americans </a>say that they need coverage, and the number of people who intend to buy a policy has reached all-time highs during the pandemic.</p>\n<p>But even though plenty of people understand the value of life insurance, there\u2019s still a big gap between how many need coverage and how many actually have it. That\u2019s why Life Insurance Awareness Month exists. Occurring in the month of September, Life Insurance Awareness Month is designed to educate people about life insurance and help them make the right coverage choices.</p>\n<p>Want to get a head start on your own education? Here are a few things to know about Life Insurance Awareness Month and your coverage options.</p>\n<h2>1. Life Insurance Awareness Month is nearly 20 years old, but life insurance goes back much further than that.</h2>\n<p>Created in 2004 by industry education group Life Happens, Life Insurance Awareness Month is an annual campaign designed to educate Americans about the importance of life insurance and how it can help provide financial security for their families. Featuring spokesperson Brooke Shields sharing her views on why life insurance is an essential part of financial health, the campaign reached <a href=\"https://lifehappens.org/press/the-time-is-now-for-life-insurance-life-happens-brooke-shields-kick-off-life-insurance-awareness-month/\">500 million people</a> in 2019.</p>\n<p>While Life Insurance Awareness Month has been running for more than 15 years, life insurance itself has been around much, much longer. In fact, the first life insurance company as a way to support women in the church whose husbands had died.</p>\n<p>More than 260 years later, the industry continues to evolve to keep up with the needs of modern families. It\u2019s now possible to price, shop, and even buy life insurance coverage online. And for people who have put off buying life insurance because of the medical exam, the number of no exam options available continues to grow.</p>\n<h2>2. The pandemic has prompted more people to think about life insurance coverage.</h2>\n<p>If you\u2019re thinking more about your family\u2019s financial security during the pandemic, you\u2019re in good company. According to Life Happens\u2019 \u201cTough Talks During COVID-19\u201d survey, about <a href=\"https://lifehappens.org/press/covid-19-sparks-new-family-conversations-around-financial-matters/\">67% of Americans</a> say that the pandemic has led them to reevaluate their finances. Life insurance coverage is among the top five topics dominating dinner table discussions, with 30% of families now discussing this sensitive topic.</p>\n<p>The survey also reports that the pandemic has helped two-thirds of Americans better understand life insurance\u2019s value, with another quarter buying coverage for the first time. Additionally, half (49%) of respondents agreed that it\u2019s essential to have open conversations with their partners and families about their financial future.</p>\n<h2>3. Anytime is a good time to get covered.</h2>\n<p>Life Insurance Awareness Month happens in September, but the <a href=\"https://lifehappens.org/press/the-time-is-now-for-life-insurance-life-happens-brooke-shields-kick-off-life-insurance-awareness-month/\">right time to buy life insurance is now</a>, according to the Life Happens\u2019 2020 campaign.</p>\n<p>Just like home or car insurance, life insurance requires planning in advance\u2014once you need it, it\u2019s too late. Even before the pandemic began, <a href=\"https://www.limra.com/en/newsroom/liam/\">one in three families</a> reported they would have financial issues within a month if the primary wage earner died. Yet nearly half (46%) of people are uninsured, and even among those with life insurance, many say they don\u2019t have enough coverage.</p>\n<p>Life insurance can\u2019t wait, and there\u2019s no time like the present to buy.</p>\n<h2>4. Calculating your life insurance needs is a good place to start.</h2>\n<p>Life insurance comes with no strings attached, so your family can use it to cover day-to-day expenses, pay off debts, save for college, and more. If you\u2019re thinking about getting covered, deciding how much you need is a good first step.</p>\n<p>Every family\u2019s needs are different, so think about how much yours would need to stay financially secure if you died. A few questions to consider:</p>\n<ul>\n<li>How much debt do I have?</li>\n<li>How much do I have in savings?</li>\n<li>Who do I want to protect?</li>\n<li>How long would they need financial support?</li>\n</ul>\n<p>You can also estimate how much life insurance coverage you need with this simple <a href=\"https://lifehappens.org/life-insurance-needs-calculator/\">calculator</a>.</p>\n<h2>5. If you&#8217;re already covered, take the time to do an annual checkup.</h2>\n<p>About 43% of policyholders say that they either don\u2019t have enough life insurance coverage or don\u2019t know. As your life changes, you should make sure that your life insurance policy changes with it if needed.</p>\n<p>Check your beneficiaries regularly to make sure the right people are set to receive the payout. For example, if you get divorced and remarried, forgetting to update your plan can mean your ex-spouse ends up receiving the policy. If you have term life insurance, make sure to keep track of when your coverage ends to avoid any gaps. And if you experienced any major life changes since you bought your policy, like getting married, changing jobs, buying a house, or having children, you might consider making changes to your policy.</p>\n<p>Finally, make sure that your loved ones know where to find your life insurance policy and what they need to do to collect their death benefit.</p>\n<p>Life Insurance Awareness Month happens once a year, but the need for financial security never stops. Getting the facts about <a href=\"https://www.progressive.com/life/\">life insurance</a> can help you rest easier knowing that your family is protected when they need it most.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Most Americans recognize the importance of life insurance: About 70% of Americans say that they need coverage, and the number of people who intend to buy a policy has reached all-time highs during the pandemic. But even though plenty of people understand the value of life insurance, there\u2019s still a big gap between how many [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 494,
+    "featured_media": 45040,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [420],
+    "tags": [],
+    "yst_prominent_words": [
+      15698, 15696, 2592, 3106, 11790, 12270, 3212, 3216, 15745, 4172, 1600
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45027"
+        }
+      ],
+      "collection": [
+        { "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/users/494"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/comments?post=45027"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45027/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 45047,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/posts/45027/revisions/45047"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media/45040"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/media?parent=45027"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/categories?post=45027"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/tags?post=45027"
+        },
+        {
+          "taxonomy": "yst_prominent_words",
+          "embeddable": true,
+          "href": "https://www.progressive.com/lifelanes/wp-json/wp/v2/yst_prominent_words?post=45027"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  }
+]
